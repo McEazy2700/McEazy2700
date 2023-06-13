@@ -2,7 +2,10 @@
 <p style="display: flex; align-items-center">
    Hi my name is Victor Ezekiel. I'm a passionate software developer and a <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" /> speedstar.
 </p>
+
 I don't use Arch BTW. 
+
+
 
 <div style="display: flex;">
     <img align="top" style="width: 50%; height: 100%" src="https://github-readme-stats.vercel.app/api?username=mceazy2700&show_icons=true&theme=radical" alt="Victor's Github   stats"/>
