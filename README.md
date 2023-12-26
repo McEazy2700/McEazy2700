@@ -1,6 +1,6 @@
 # Hi there, I'm Vice 
 <p style="display: flex; align-items-center">
-   Hi my name is Victor Ezekiel. I'm a passionate software developer, linux enthusiast and a <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" /> speedstar.
+   Hi my name is Victor Ezekiel. I'm a passionate software developer, a linux enthusiast and <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" /> speedstar.
 </p>
 
 
