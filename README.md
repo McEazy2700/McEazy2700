@@ -1,6 +1,6 @@
-# Hi there, I'm Vice 
+# Hi there, I'm Vice and I use Arch BTW
 <p style="display: flex; align-items-center">
-   Hi my name is Victor Ezekiel. I'm a passionate software developer, a linux enthusiast and <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" /> speedstar.
+   A passionate software developer, a linux enthusiast and <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" /> speedstar.
 </p>
 
 
