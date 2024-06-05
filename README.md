@@ -1,4 +1,4 @@
-# Hi there, I'm Vice and I use Arch BTW
+# Hi there, I'm Vice. I use Arch BTW
 <p style="display: flex; align-items-center">
    A passionate software developer, a linux enthusiast and <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" /> speedstar.
 </p>
